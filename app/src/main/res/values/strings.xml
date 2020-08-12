@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FightWithRoom</string>
+    <string name="login">Введите логин</string>
+    <string name="input">Input</string>
+    <string name="registr">Зарегистрироваться</string>
+    <string name="password">Введите пароль</string>
+    <string name="pass">Повторите пароль</string>
+    <string name="input_error">Ведите нормальные данные</string>
+</resources>
